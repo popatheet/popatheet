@@ -24,6 +24,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+- **Languages:**
+  - ![C](https://raw.githubusercontent.com/github/explore/main/topics/c/c.png) C
+  - ![C++](https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png) C++
+  - ![Java](https://raw.githubusercontent.com/github/explore/main/topics/java/java.png) Java
+  - ![HTML](https://raw.githubusercontent.com/github/explore/main/topics/html/html.png) HTML
+  - ![CSS](https://raw.githubusercontent.com/github/explore/main/topics/css/css.png) CSS
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=popatheet&show_icons=true&locale=en&layout=compact" alt="popatheet" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=popatheet&show_icons=true&locale=en" alt="popatheet" /></p>
