@@ -22,7 +22,6 @@
 
 ## Tech Stack <img src = "https://github.com/ajay-mandal/ajay-mandal/blob/2dcbdc4abcd89dfca1ec2b174239cd7ff9f66593/badges/243199547-42077049-1939-493e-9a19-47ca5db36643.gif" width="80">
 
-- **Languages:**  
   ![C](https://raw.githubusercontent.com/github/explore/main/topics/c/c.png)
   ![C++](https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png)
   ![Java](https://raw.githubusercontent.com/github/explore/main/topics/java/java.png)
