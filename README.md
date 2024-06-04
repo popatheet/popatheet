@@ -22,15 +22,15 @@
 
 ## Tech Stack <img src = "https://github.com/ajay-mandal/ajay-mandal/blob/2dcbdc4abcd89dfca1ec2b174239cd7ff9f66593/badges/243199547-42077049-1939-493e-9a19-47ca5db36643.gif" width="80">
 
-<h3>Language</h3>
+<h3>Languages</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cpp,c,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cpp,c)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=popatheet&show_icons=true&locale=en&layout=compact" alt="popatheet" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=popatheet&show_icons=true&locale=en&layout=compact" alt="popatheet" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=popatheet&show_icons=true&locale=en" alt="popatheet" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=popatheet&show_icons=true&locale=en" alt="popatheet" /></p><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=popatheet&" alt="popatheet" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=popatheet&" alt="popatheet" /></p><br>
 <br>
 
 ![](under-construction.gif)
